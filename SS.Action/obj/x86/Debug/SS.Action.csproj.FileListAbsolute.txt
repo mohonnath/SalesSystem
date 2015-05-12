@@ -1,0 +1,9 @@
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.Action.dll
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.Action.pdb
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.Collection.dll
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.DataAccess.dll
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.DataAccess.pdb
+E:\Work backup\Source backup\SalesSystem\SS.Action\bin\x86\Debug\SS.Collection.pdb
+E:\Work backup\Source backup\SalesSystem\SS.Action\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work backup\Source backup\SalesSystem\SS.Action\obj\x86\Debug\SS.Action.dll
+E:\Work backup\Source backup\SalesSystem\SS.Action\obj\x86\Debug\SS.Action.pdb
