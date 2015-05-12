@@ -1,0 +1,5 @@
+E:\Work backup\Source backup\SalesSystem\SS.Collection\bin\x86\Debug\SS.Collection.dll
+E:\Work backup\Source backup\SalesSystem\SS.Collection\bin\x86\Debug\SS.Collection.pdb
+E:\Work backup\Source backup\SalesSystem\SS.Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work backup\Source backup\SalesSystem\SS.Collection\obj\x86\Debug\SS.Collection.dll
+E:\Work backup\Source backup\SalesSystem\SS.Collection\obj\x86\Debug\SS.Collection.pdb
