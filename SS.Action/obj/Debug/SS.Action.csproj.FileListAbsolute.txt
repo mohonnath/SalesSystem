@@ -1,9 +1,0 @@
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.Action.dll
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.Action.pdb
-E:\Work backup\Source backup\SalesSystem\SS.Action\obj\Debug\ResolveAssemblyReference.cache
-E:\Work backup\Source backup\SalesSystem\SS.Action\obj\Debug\SS.Action.dll
-E:\Work backup\Source backup\SalesSystem\SS.Action\obj\Debug\SS.Action.pdb
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.Collection.dll
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.DataAccess.dll
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.DataAccess.pdb
-E:\Work backup\Source backup\SalesSystem\SS.Action\bin\Debug\SS.Collection.pdb

@@ -1,5 +1,0 @@
-E:\Work backup\Source backup\SalesSystem\SS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
-E:\Work backup\Source backup\SalesSystem\SS.DataAccess\bin\Debug\SS.DataAccess.dll
-E:\Work backup\Source backup\SalesSystem\SS.DataAccess\bin\Debug\SS.DataAccess.pdb
-E:\Work backup\Source backup\SalesSystem\SS.DataAccess\obj\Debug\SS.DataAccess.dll
-E:\Work backup\Source backup\SalesSystem\SS.DataAccess\obj\Debug\SS.DataAccess.pdb
